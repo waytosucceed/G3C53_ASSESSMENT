@@ -1,0 +1,1037 @@
+{
+  "heading": "select a topic",
+  "topics": [
+    {
+      "heading": "Antonyms",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the opposite of 'brave':",
+          "options": [
+            {
+              "text": "Timid"
+            },
+            {
+              "text": "Happy"
+            },
+            {
+              "text": "Strong"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Brave' means courageous or showing no fear. Its opposite is 'timid,' which means showing fear or being shy and nervous. While 'happy' and 'strong' are different qualities, they are not opposites of 'brave.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Select the opposite of 'ancient':",
+          "options": [
+            {
+              "text": "Large"
+            },
+            {
+              "text": "Old"
+            },
+            {
+              "text": "Modern"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Ancient' means belonging to the very distant past. Its opposite is 'modern,' which refers to the present or recent times. 'Old' is similar to ancient, and 'large' describes size, not time."
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the antonym of 'rough':",
+          "options": [
+            {
+              "text": "Smooth"
+            },
+            {
+              "text": "Hard"
+            },
+            {
+              "text": "Tough"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Rough' means having an uneven or irregular surface. The opposite is 'smooth,' which means having a flat, even surface without bumps or ridges. 'Hard' and 'tough' relate to different qualities and aren't opposites of rough."
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the opposite of 'empty'?",
+          "options": [
+            {
+              "text": "Half"
+            },
+            {
+              "text": "Full"
+            },
+            {
+              "text": "Some"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Empty' means containing nothing. Its complete opposite is 'full,' meaning containing as much as possible. While 'half' and 'some' indicate partial contents, they aren't complete opposites of empty."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the opposite of 'quiet':",
+          "options": [
+            {
+              "text": "Loud"
+            },
+            {
+              "text": "Soft"
+            },
+            {
+              "text": "Mild"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Quiet' means making very little noise. Its opposite is 'loud,' which means making a lot of noise. 'Soft' is similar to quiet, and 'mild' typically describes temperature or flavour."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Homophones",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Choose the correct homophone for 'bare':",
+          "options": [
+            {
+              "text": "Beam"
+            },
+            {
+              "text": "Bear"
+            },
+            {
+              "text": "Bomb"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Bare' means uncovered or naked, while 'bear' is a large furry animal or means to carry something. These words sound exactly the same but have different meanings and spellings."
+        },
+        {
+          "questionNo": 7,
+          "question": "Select the homophone for 'right':",
+          "options": [
+            {
+              "text": "Write"
+            },
+            {
+              "text": "Rat"
+            },
+            {
+              "text": "Rate"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Right' means correct or the opposite of left, while 'write' means to form letters or words. These words sound the same but have different meanings and spellings."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the homophone for 'there':",
+          "options": [
+            {
+              "text": "Their"
+            },
+            {
+              "text": "They"
+            },
+            {
+              "text": "That"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'There' refers to a place or position, while 'their' shows possession. These words sound identical but have different meanings and spellings. 'They' and 'that' have different pronunciations."
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the homophone for 'tail':",
+          "options": [
+            {
+              "text": "Tall"
+            },
+            {
+              "text": "Tell"
+            },
+            {
+              "text": "Tale"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Tail' is a body part of an animal, while 'tale' means a story. These words sound exactly the same but have different meanings and spellings. 'Tall' and 'tell' have different pronunciations."
+        },
+        {
+          "questionNo": 10,
+          "question": "What is a homophone for 'hole':",
+          "options": [
+            {
+              "text": "Hall"
+            },
+            {
+              "text": "Whole"
+            },
+            {
+              "text": "Hill"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Hole' is an opening or empty space, while 'whole' means complete or entire. These words sound identical but have different meanings and spellings. 'Hall' and 'hill' have different pronunciations."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "What are they called?",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Who writes stories and books?",
+          "options": [
+            {
+              "text": "Author"
+            },
+            {
+              "text": "Plumber"
+            },
+            {
+              "text": "Actor"
+            }
+          ],
+          "answer": 0,
+          "explanation": "An author is someone who writes books, stories, or articles. They use their imagination and writing skills to create interesting tales or share information with readers."
+        },
+        {
+          "questionNo": 12,
+          "question": "Who makes bread and cakes?",
+          "options": [
+            {
+              "text": "Artist"
+            },
+            {
+              "text": "Waiter"
+            },
+            {
+              "text": "Baker"
+            }
+          ],
+          "answer": 2,
+          "explanation": "A baker is someone who makes bread, cakes, pastries, and other baked goods. They mix ingredients, shape dough, and use ovens to create delicious treats for people to enjoy."
+        },
+        {
+          "questionNo": 13,
+          "question": "<img width='70%' src='./assests/images/question/1.png'><br>Choose the correct word:",
+          "options": [
+            {
+              "text": "Vet"
+            },
+            {
+              "text": "Plumber"
+            },
+            {
+              "text": "Chef"
+            }
+          ],
+          "answer": 1,
+          "explanation": "A plumber is a person who fixes water pipes, sinks, and other things related to water systems. A vet takes care of animals, and a chef cooks food."
+        },
+        {
+          "questionNo": 14,
+          "question": "A __________ cuts and styles people's hair.",
+          "options": [
+            {
+              "text": "Doctor"
+            },
+            {
+              "text": "Baker"
+            },
+            {
+              "text": "Barber"
+            }
+          ],
+          "answer": 2,
+          "explanation": "A barber is someone who cuts, trims, and styles hair, especially for men and boys. They use scissors, clippers, and other tools to give people the haircuts they want."
+        },
+        {
+          "questionNo": 15,
+          "question": "Who studies science and does experiments?",
+          "options": [
+            {
+              "text": "Scientist"
+            },
+            {
+              "text": "Teacher"
+            },
+            {
+              "text": "Pilot"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A scientist is a person who studies the natural world and conducts experiments to learn new things. They ask questions, make observations, and try to understand how things work in our world."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Greek and Latin Roots",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "In the word 'autobiography', what does 'auto' mean?",
+          "options": [
+            {
+              "text": "Car"
+            },
+            {
+              "text": "Self"
+            },
+            {
+              "text": "Write"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In 'autobiography', 'auto' means 'self'. An autobiography is a story someone writes about their own life."
+        },
+        {
+          "questionNo": 17,
+          "question": "The Greek root 'geo' means:",
+          "options": [
+            {
+              "text": "Fire"
+            },
+            {
+              "text": "Air"
+            },
+            {
+              "text": "Earth"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Geo' is a Greek root that means 'earth'. For example, 'geography' is the study of the Earth."
+        },
+        {
+          "questionNo": 18,
+          "question": "The Latin root 'dict' means:",
+          "options": [
+            {
+              "text": "Say"
+            },
+            {
+              "text": "Write"
+            },
+            {
+              "text": "Read"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Dict' is a Latin root that means 'say' or 'tell'. A dictionary tells us what words mean."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which Greek root does the word 'automatic' contain?",
+          "options": [
+            {
+              "text": "Auto"
+            },
+            {
+              "text": "Matic"
+            },
+            {
+              "text": "Tom"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Automatic' contains the root 'auto', which means 'self'. Something automatic works by itself."
+        },
+        {
+          "questionNo": 20,
+          "question": "In 'anticlockwise', what does 'anti' mean?",
+          "options": [
+            {
+              "text": "Before"
+            },
+            {
+              "text": "After"
+            },
+            {
+              "text": "Against"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In 'anticlockwise', 'anti' means 'against' or 'opposite to'. It's the opposite direction to clockwise."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Multiple meanings of words",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "What does 'bright' mean in 'She had a bright idea'?",
+          "options": [
+            {
+              "text": "Shiny"
+            },
+            {
+              "text": "Intelligent"
+            },
+            {
+              "text": "Dull"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'bright' is used to describe an idea, meaning it's clever or intelligent. This is a figurative use of 'bright,' different from its literal meaning of 'giving off a lot of light' or 'shiny.'"
+        },
+        {
+          "questionNo": 22,
+          "question": "Choose the sentence where 'right' means 'correct':",
+          "options": [
+            {
+              "text": "Turn right at the stop sign."
+            },
+            {
+              "text": "You got all the answers right!"
+            },
+            {
+              "text": "He raised his right hand."
+            }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'right' means 'correct' or 'accurate.' It's used to indicate that all the answers were correct."
+        },
+        {
+          "questionNo": 23,
+          "question": "Choose the sentence where 'kind' means 'type':",
+          "options": [
+            {
+              "text": "He is a kind teacher."
+            },
+            {
+              "text": "It was kind of him to help me."
+            },
+            {
+              "text": "What kind of music do you like?"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In this question, 'kind' is used to mean 'type' or 'genre' of music. It's asking about the specific category or style of music someone prefers. In the other sentences, 'kind' is used as an adjective meaning 'nice' or 'caring.'"
+        },
+        {
+          "questionNo": 24,
+          "question": "In 'Can you ring the doorbell?' what does 'ring' mean?",
+          "options": [
+            {
+              "text": "To make a sound"
+            },
+            {
+              "text": "To put a ring (jewellery) on"
+            },
+            {
+              "text": "A circular shape"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In this sentence, 'ring' is a verb meaning to make the doorbell produce a sound. This is different from the noun 'ring' (a piece of jewellery or a circular shape)."
+        },
+        {
+          "questionNo": 25,
+          "question": "In 'I'll watch over you,' what does 'watch' mean?",
+          "options": [
+            {
+              "text": "To go up"
+            },
+            {
+              "text": "A wrist clock"
+            },
+            {
+              "text": "To protect or take care of"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'watch over' means to protect or take care of someone. It implies guardianship or looking after someone's well-being."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Reading (Facts v/s Opinions)",
+      "questions": [
+        {
+          "questionNo": 26,
+          "story":"Plants make their own food through a process called photosynthesis, which is a fascinating and important part of life on Earth. In photosynthesis, plants use sunlight, water, and carbon dioxide to create energy-rich food, which is stored in their leaves. Many people think it’s amazing how plants can “eat” sunlight and turn it into food without needing to find something to eat like animals do. Some scientists say that photosynthesis is one of the most important processes in nature, as it provides oxygen for us to breathe. Watching plants grow from sunlight, water, and soil might make us feel like nature is full of magic!",
+          "question": "Which of the following is a fact?",
+          "options": [
+            {
+              "text": "Plants make their own food through photosynthesis."
+            },
+            {
+              "text": "Photosynthesis is boring."
+            },
+            {
+              "text": "Photosynthesis makes plants taste better."
+            }
+          ],
+          "answer": 0,
+          "explanation": "This is a fact because it describes the actual process by which plants create food. The other options are opinions."
+        },
+        {
+          "questionNo": 27,
+          "story":"Plants make their own food through a process called photosynthesis, which is a fascinating and important part of life on Earth. In photosynthesis, plants use sunlight, water, and carbon dioxide to create energy-rich food, which is stored in their leaves. Many people think it’s amazing how plants can “eat” sunlight and turn it into food without needing to find something to eat like animals do. Some scientists say that photosynthesis is one of the most important processes in nature, as it provides oxygen for us to breathe. Watching plants grow from sunlight, water, and soil might make us feel like nature is full of magic!",
+          "question": "Which statement is an opinion?",
+          "options": [
+            {
+              "text": "Photosynthesis uses sunlight, water, and carbon dioxide."
+            },
+            {
+              "text": "Watching plants grow is magical."
+            },
+            {
+              "text": "Plants store food in their leaves."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is an opinion because it describes how someone feels about watching plants grow. The other options are factual statements."
+        },
+        {
+          "questionNo": 28,
+          "story":"Plants make their own food through a process called photosynthesis, which is a fascinating and important part of life on Earth. In photosynthesis, plants use sunlight, water, and carbon dioxide to create energy-rich food, which is stored in their leaves. Many people think it’s amazing how plants can “eat” sunlight and turn it into food without needing to find something to eat like animals do. Some scientists say that photosynthesis is one of the most important processes in nature, as it provides oxygen for us to breathe. Watching plants grow from sunlight, water, and soil might make us feel like nature is full of magic!",
+          "question": "What part of the text is a fact?",
+          "options": [
+            {
+              "text": "Many people think it’s amazing how plants make food."
+            },
+            {
+              "text": "Plants need water to make their food."
+            },
+            {
+              "text": "Photosynthesis is the best process in nature."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a fact because water is indeed necessary for photosynthesis. The other options express opinions or thoughts."
+        },
+        {
+          "questionNo": 29,
+          "story":"Plants make their own food through a process called photosynthesis, which is a fascinating and important part of life on Earth. In photosynthesis, plants use sunlight, water, and carbon dioxide to create energy-rich food, which is stored in their leaves. Many people think it’s amazing how plants can “eat” sunlight and turn it into food without needing to find something to eat like animals do. Some scientists say that photosynthesis is one of the most important processes in nature, as it provides oxygen for us to breathe. Watching plants grow from sunlight, water, and soil might make us feel like nature is full of magic!",
+          "question": "Which of these is a fact about photosynthesis?",
+          "options": [
+            {
+              "text": "It is amazing how plants can 'eat' sunlight."
+            },
+            {
+              "text": "Photosynthesis is the most exciting science topic."
+            },
+            {
+              "text": "Photosynthesis helps produce oxygen."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This is a fact because photosynthesis does release oxygen as a byproduct. The other statements are opinions about photosynthesis."
+        },
+        {
+          "questionNo": 30,
+          "story":"Plants make their own food through a process called photosynthesis, which is a fascinating and important part of life on Earth. In photosynthesis, plants use sunlight, water, and carbon dioxide to create energy-rich food, which is stored in their leaves. Many people think it’s amazing how plants can “eat” sunlight and turn it into food without needing to find something to eat like animals do. Some scientists say that photosynthesis is one of the most important processes in nature, as it provides oxygen for us to breathe. Watching plants grow from sunlight, water, and soil might make us feel like nature is full of magic!",
+          "question": "Which statement reflects an opinion in the text?",
+          "options": [
+            {
+              "text": "Photosynthesis requires sunlight."
+            },
+            {
+              "text": "Some people think photosynthesis is amazing."
+            },
+            {
+              "text": "Plants produce their food in their leaves."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is an opinion, as it describes how people feel about photosynthesis. The other statements are facts."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Synonym v/s Antonyms",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Which word is an antonym for 'different'?",
+          "options": [
+            {
+              "text": "Similar"
+            },
+            {
+              "text": "Opposite"
+            },
+            {
+              "text": "Unique"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Similar' means nearly the same, making it the opposite of 'different.' 'Opposite' does not mean the same as 'similar,' and 'unique' means one of a kind."
+        },
+        {
+          "questionNo": 32,
+          "question": "Which word is an antonym for 'important'?",
+          "options": [
+            {
+              "text": "Significant"
+            },
+            {
+              "text": "Valuable"
+            },
+            {
+              "text": "Unimportant"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Unimportant' is the opposite of 'important.' 'Significant' and 'valuable' are synonyms for 'important.'"
+        },
+        {
+          "questionNo": 33,
+          "question": "Which word is a synonym for 'mysterious'?",
+          "options": [
+            {
+              "text": "Strange"
+            },
+            {
+              "text": "Clear"
+            },
+            {
+              "text": "Known"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Mysterious' and 'strange' are similar, both meaning something unknown or puzzling. 'Clear' and 'known' have different meanings."
+        },
+        {
+          "questionNo": 34,
+          "question": "Which word is a synonym for 'warm'?",
+          "options": [
+            {
+              "text": "Cold"
+            },
+            {
+              "text": "Hot"
+            },
+            {
+              "text": "Dark"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Warm' and 'hot' are similar in meaning, describing a high temperature. 'Cold' is the opposite, and 'dark' is unrelated."
+        },
+        {
+          "questionNo": 35,
+          "question": "Which word is a synonym for 'amazing'?",
+          "options": [
+            {
+              "text": "Ordinary"
+            },
+            {
+              "text": "Wonderful"
+            },
+            {
+              "text": "Unusual"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Amazing' and 'wonderful' have similar meanings, both expressing something great or impressive. 'Ordinary' and 'unusual' do not have the same meaning."
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Contractions",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "Which is the correct contraction for 'do not'?",
+          "options": [
+            {
+              "text": "didn’t"
+            },
+            {
+              "text": "don’t"
+            },
+            {
+              "text": "doesn't"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Don’t' is the correct contraction for 'do not.' It combines the words by using an apostrophe in place of the missing letter 'o.'"
+        },
+        {
+          "questionNo": 37,
+          "question": "Which is the correct contraction for 'we will'?",
+          "options": [
+            {
+              "text": "we’ll"
+            },
+            {
+              "text": "well’"
+            },
+            {
+              "text": "we’ill"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'We’ll' is the contraction for 'we will,' with an apostrophe replacing the letters 'wi.'"
+        },
+        {
+          "questionNo": 38,
+          "question": "Which is the correct contraction for 'I am'?",
+          "options": [
+            {
+              "text": "I’m"
+            },
+            {
+              "text": "I’am"
+            },
+            {
+              "text": "Im’"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'I’m' is the correct contraction for 'I am,' with an apostrophe in place of the 'a.'"
+        },
+        {
+          "questionNo": 39,
+          "question": "Which contraction means 'they are'?",
+          "options": [
+            {
+              "text": "there"
+            },
+            {
+              "text": "they’re"
+            },
+            {
+              "text": "theyar’"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'They’re' is the correct contraction for 'they are.' The apostrophe replaces the missing 'a.'"
+        },
+        {
+          "questionNo": 40,
+          "question": "Which is the correct contraction for 'is not'?",
+          "options": [
+            {
+              "text": "isn’t"
+            },
+            {
+              "text": "is’tn"
+            },
+            {
+              "text": "ins’t"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Isn’t' is the correct contraction for 'is not,' with an apostrophe replacing the 'o.'"
+        }
+      ]
+      
+      
+    },
+    {
+      "heading": "Reading a poem",
+      "questions": [
+        {
+          "questionNo": 41,
+          "story":"<b>\"Blast Off to Space!\"</b><br><br>Up, up, up, into the sky,<br>Past the clouds, we're soaring high!<br>Stars are twinkling all around,<br>In our spaceship, safe and sound.<br><br>Planets spin and comets zoom,<br>Past the stars and silver moon.<br>Adventure waits in worlds unknown,<br>Exploring space, so far from home!",
+          "question": "What is the main setting of this poem?",
+          "options": [
+            {
+              "text": "The ocean"
+            },
+            {
+              "text": "Space"
+            },
+            {
+              "text": "A forest"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The poem describes a space adventure, with lines like 'Past the stars and silver moon,' which shows that the setting is in space."
+        },
+        {
+          "questionNo": 42,
+          "story":"<b>\"Blast Off to Space!\"</b><br><br>Up, up, up, into the sky,<br>Past the clouds, we're soaring high!<br>Stars are twinkling all around,<br>In our spaceship, safe and sound.<br><br>Planets spin and comets zoom,<br>Past the stars and silver moon.<br>Adventure waits in worlds unknown,<br>Exploring space, so far from home!",
+          "question": "What is the tone of the poem?",
+          "options": [
+            {
+              "text": "Exciting"
+            },
+            {
+              "text": "Sad"
+            },
+            {
+              "text": "Scary"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The poem uses words like 'soaring high,' 'twinkling,' and 'adventure' to create an exciting and thrilling tone."
+        },
+        {
+          "questionNo": 43,
+          "story":"<b>\"Blast Off to Space!\"</b><br><br>Up, up, up, into the sky,<br>Past the clouds, we're soaring high!<br>Stars are twinkling all around,<br>In our spaceship, safe and sound.<br><br>Planets spin and comets zoom,<br>Past the stars and silver moon.<br>Adventure waits in worlds unknown,<br>Exploring space, so far from home!",
+          "question": "What do the words 'safe and sound' mean in the poem?",
+          "options": [
+            {
+              "text": "The spaceship is noisy."
+            },
+            {
+              "text": "They are returning home."
+            },
+            {
+              "text": "The travellers feel safe."
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Safe and sound' means they feel secure in the spaceship during their space journey."
+        },
+        {
+          "questionNo": 44,
+          "story":"<b>\"Blast Off to Space!\"</b><br><br>Up, up, up, into the sky,<br>Past the clouds, we're soaring high!<br>Stars are twinkling all around,<br>In our spaceship, safe and sound.<br><br>Planets spin and comets zoom,<br>Past the stars and silver moon.<br>Adventure waits in worlds unknown,<br>Exploring space, so far from home!",
+          "question": "Which phrase in the poem helps create an adventurous tone?",
+          "options": [
+            {
+              "text": "In our spaceship, safe and sound"
+            },
+            {
+              "text": "Past the clouds, we're soaring high!"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Soaring high' suggests adventure and freedom, adding to the exciting tone of the poem."
+        },
+        {
+          "questionNo": 45,
+          "story":"<b>\"Blast Off to Space!\"</b><br><br>Up, up, up, into the sky,<br>Past the clouds, we're soaring high!<br>Stars are twinkling all around,<br>In our spaceship, safe and sound.<br><br>Planets spin and comets zoom,<br>Past the stars and silver moon.<br>Adventure waits in worlds unknown,<br>Exploring space, so far from home!",
+          "question": "What are the travellers doing in the poem?",
+          "options": [
+            {
+              "text": "Exploring space"
+            },
+            {
+              "text": "Walking on the moon"
+            },
+            {
+              "text": "Camping in a forest"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The poem talks about planets, comets, and adventure in space, indicating they are exploring space."
+        }
+      ]
+      
+      
+      
+    },
+    {
+      "heading": "Historical Fiction",
+      "questions": [
+        {
+          "questionNo": 46,
+          "story":"<b>\"Wei's Dream of Pottery\"</b><br><br>In ancient China, a young boy named Wei loved watching his father, a potter, shape clay into beautiful vases. One day, Wei’s father let him try the potter's wheel. Carefully, Wei shaped a small bowl, and his father smiled with pride. Wei dreamed of making the finest pottery in China. As the sun set, he knew he’d work hard to keep his family’s art alive for generations. <br>The next morning, Wei woke up early, eager to practice. His father showed him how to mix colourful glazes to decorate the clay. As Wei painted his bowl with deep blues and reds, he imagined it being used by the emperor himself! Every day, Wei’s hands grew stronger, and his skills improved. He was determined to make pottery that would tell the story of his family’s craft for years to come.",
+          "question": "What was Wei’s dream?",
+          "options": [
+            {
+              "text": "To make pottery for the emperor"
+            },
+            {
+              "text": "To build a pottery store"
+            },
+            {
+              "text": "To paint pictures"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Wei imagines his bowl being used by the emperor, showing his big dream as a young potter."
+        },
+        {
+          "questionNo": 47,
+          "story":"<b>\"Wei's Dream of Pottery\"</b><br><br>In ancient China, a young boy named Wei loved watching his father, a potter, shape clay into beautiful vases. One day, Wei’s father let him try the potter's wheel. Carefully, Wei shaped a small bowl, and his father smiled with pride. Wei dreamed of making the finest pottery in China. As the sun set, he knew he’d work hard to keep his family’s art alive for generations. <br>The next morning, Wei woke up early, eager to practice. His father showed him how to mix colourful glazes to decorate the clay. As Wei painted his bowl with deep blues and reds, he imagined it being used by the emperor himself! Every day, Wei’s hands grew stronger, and his skills improved. He was determined to make pottery that would tell the story of his family’s craft for years to come.",
+          "question": "What detail in the story is most likely true about ancient China?",
+          "options": [
+            {
+              "text": "Pottery was highly valued."
+            },
+            {
+              "text": "Pottery was only made in red colours."
+            },
+            {
+              "text": "People painted pottery with pencils."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Pottery was a respected art in ancient China, often used for decoration and everyday use."
+        },
+        {
+          "questionNo": 48,
+          "story":"<b>\"Wei's Dream of Pottery\"</b><br><br>In ancient China, a young boy named Wei loved watching his father, a potter, shape clay into beautiful vases. One day, Wei’s father let him try the potter's wheel. Carefully, Wei shaped a small bowl, and his father smiled with pride. Wei dreamed of making the finest pottery in China. As the sun set, he knew he’d work hard to keep his family’s art alive for generations. <br>The next morning, Wei woke up early, eager to practice. His father showed him how to mix colourful glazes to decorate the clay. As Wei painted his bowl with deep blues and reds, he imagined it being used by the emperor himself! Every day, Wei’s hands grew stronger, and his skills improved. He was determined to make pottery that would tell the story of his family’s craft for years to come.",
+          "question": "What makes Wei’s story fiction?",
+          "options": [
+            {
+              "text": "Wei is learning to make pottery."
+            },
+            {
+              "text": "Wei wants to impress the emperor."
+            },
+            {
+              "text": "Wei and his father are imaginary characters."
+            }
+          ],
+          "answer": 2,
+          "explanation": "Historical fiction includes imaginary characters in real settings from the past."
+        },
+        {
+          "questionNo": 49,
+          "story":"<b>\"Wei's Dream of Pottery\"</b><br><br>In ancient China, a young boy named Wei loved watching his father, a potter, shape clay into beautiful vases. One day, Wei’s father let him try the potter's wheel. Carefully, Wei shaped a small bowl, and his father smiled with pride. Wei dreamed of making the finest pottery in China. As the sun set, he knew he’d work hard to keep his family’s art alive for generations. <br>The next morning, Wei woke up early, eager to practice. His father showed him how to mix colourful glazes to decorate the clay. As Wei painted his bowl with deep blues and reds, he imagined it being used by the emperor himself! Every day, Wei’s hands grew stronger, and his skills improved. He was determined to make pottery that would tell the story of his family’s craft for years to come.",
+          "question": "What makes this story historical?",
+          "options": [
+            {
+              "text": "It has robots and modern technology."
+            },
+            {
+              "text": "It has details about ancient pottery techniques."
+            },
+            {
+              "text": "It happens in a space station."
+            }
+          ],
+          "answer": 1,
+          "explanation": "Ancient pottery methods and the setting in China make this story historical fiction."
+        },
+        {
+          "questionNo": 50,
+          "story":"<b>\"Wei's Dream of Pottery\"</b><br><br>In ancient China, a young boy named Wei loved watching his father, a potter, shape clay into beautiful vases. One day, Wei’s father let him try the potter's wheel. Carefully, Wei shaped a small bowl, and his father smiled with pride. Wei dreamed of making the finest pottery in China. As the sun set, he knew he’d work hard to keep his family’s art alive for generations. <br>The next morning, Wei woke up early, eager to practice. His father showed him how to mix colourful glazes to decorate the clay. As Wei painted his bowl with deep blues and reds, he imagined it being used by the emperor himself! Every day, Wei’s hands grew stronger, and his skills improved. He was determined to make pottery that would tell the story of his family’s craft for years to come.",
+          "question": "What was Wei’s goal in learning pottery?",
+          "options": [
+            {
+              "text": "To help his family with the farm."
+            },
+            {
+              "text": "To carry on the family art of pottery."
+            },
+            {
+              "text": "To make toys for his friends."
+            }
+          ],
+          "answer": 1,
+          "explanation": "Wei wants to continue his family’s pottery tradition, a common theme in historical fiction showing cultural heritage."
+        }
+      ]
+      
+      
+      
+    },
+    {
+      "heading": "Science Fiction",
+      "questions": [
+        {
+          "questionNo": 51,
+          "story":"<b>\"The Mysterious Garden\"</b><br><br>ILily found a glowing seed in her backyard one morning and decided to plant it. The next day, to her amazement, a huge, twisting plant had grown overnight, reaching far above her house! As she climbed the glowing green vine, she found herself in a magical garden floating high in the clouds. <br><br>There were giant, talking flowers, and fruits that sparkled like stars. Suddenly, a tiny robot zipped over and handed her a crystal that shone with rainbow colours. “This is a gift from the Sky Garden,” it said. Lily held the crystal tightly, promising to visit again soon.",
+          "question": "Which part of the story makes it science fiction?",
+          "options": [
+            {
+              "text": "Lily finds a regular flower in her backyard."
+            },
+            {
+              "text": "Lily climbs a magical, glowing vine into the clouds."
+            },
+            {
+              "text": "Lily goes to a playground with her friends."
+            }
+          ],
+          "answer": 1,
+          "explanation": "Science fiction often involves things that are possible only in imagination, like a plant that grows overnight and reaches the clouds."
+        },
+        {
+          "questionNo": 52,
+          "story":"<b>\"The Mysterious Garden\"</b><br><br>ILily found a glowing seed in her backyard one morning and decided to plant it. The next day, to her amazement, a huge, twisting plant had grown overnight, reaching far above her house! As she climbed the glowing green vine, she found herself in a magical garden floating high in the clouds. <br><br>There were giant, talking flowers, and fruits that sparkled like stars. Suddenly, a tiny robot zipped over and handed her a crystal that shone with rainbow colours. “This is a gift from the Sky Garden,” it said. Lily held the crystal tightly, promising to visit again soon.",
+          "question": "What strange thing did Lily see in the Sky Garden?",
+          "options": [
+            {
+              "text": "Regular flowers and fruits"
+            },
+            {
+              "text": "Ordinary plants and trees"
+            },
+            {
+              "text": "Talking flowers and sparkling fruits"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In science fiction, unusual elements like talking flowers and sparkling fruits make the story imaginative and magical."
+        },
+        {
+          "questionNo": 53,
+          "story":"<b>\"The Mysterious Garden\"</b><br><br>ILily found a glowing seed in her backyard one morning and decided to plant it. The next day, to her amazement, a huge, twisting plant had grown overnight, reaching far above her house! As she climbed the glowing green vine, she found herself in a magical garden floating high in the clouds. <br><br>There were giant, talking flowers, and fruits that sparkled like stars. Suddenly, a tiny robot zipped over and handed her a crystal that shone with rainbow colours. “This is a gift from the Sky Garden,” it said. Lily held the crystal tightly, promising to visit again soon.",
+          "question": "What did the tiny robot give to Lily?",
+          "options": [
+            {
+              "text": "A crystal that shone with rainbow colours"
+            },
+            {
+              "text": "A book"
+            },
+            {
+              "text": "A leaf from the plant"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The crystal with rainbow colours is a magical or futuristic item, adding to the science-fiction feel of the story."
+        },
+        {
+          "questionNo": 54,
+          "story":"<b>\"The Mysterious Garden\"</b><br><br>ILily found a glowing seed in her backyard one morning and decided to plant it. The next day, to her amazement, a huge, twisting plant had grown overnight, reaching far above her house! As she climbed the glowing green vine, she found herself in a magical garden floating high in the clouds. <br><br>There were giant, talking flowers, and fruits that sparkled like stars. Suddenly, a tiny robot zipped over and handed her a crystal that shone with rainbow colours. “This is a gift from the Sky Garden,” it said. Lily held the crystal tightly, promising to visit again soon.",
+          "question": "Why is the robot in the story an example of science fiction?",
+          "options": [
+            {
+              "text": "Because robots are in all types of stories"
+            },
+            {
+              "text": "Because the robot talks and acts like a person"
+            },
+            {
+              "text": "Because robots help with homework"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Science fiction often includes robots that can speak and behave like humans, which adds an imaginative, futuristic element."
+        },
+        {
+          "questionNo": 55,
+          "story":"<b>\"The Mysterious Garden\"</b><br><br>ILily found a glowing seed in her backyard one morning and decided to plant it. The next day, to her amazement, a huge, twisting plant had grown overnight, reaching far above her house! As she climbed the glowing green vine, she found herself in a magical garden floating high in the clouds. <br><br>There were giant, talking flowers, and fruits that sparkled like stars. Suddenly, a tiny robot zipped over and handed her a crystal that shone with rainbow colours. “This is a gift from the Sky Garden,” it said. Lily held the crystal tightly, promising to visit again soon.",
+          "question": "Why is the Sky Garden considered part of science fiction?",
+          "options": [
+            {
+              "text": "Because it is just like an ordinary garden"
+            },
+            {
+              "text": "Because it floats high in the clouds and has magical plants"
+            },
+            {
+              "text": "Because it has regular flowers"
+            }
+          ],
+          "answer": 1,
+          "explanation": "A garden that floats in the clouds and has unique, magical plants is imaginary and aligns with science fiction elements."
+        }
+      ]
+      
+      
+      
+    }
+  ]
+}
